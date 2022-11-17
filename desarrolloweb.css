@@ -1,0 +1,172 @@
+            body {
+                background-image: url("Images/program.jpg");
+                background-color: #cccccc;
+            
+            }
+
+            /*PHP*/
+            
+            #php img {
+                width: 380px;
+                display: block;
+                margin: auto;
+                margin-top: 5%;
+            }
+            
+            #php {
+                width: 400px;
+                height: 400px;
+                background-color: #4E5B92;
+                border-radius: 10px;
+                overflow: auto;
+                margin-left: 5%;
+            }
+            
+            .insF {
+                background-color: #4C869E;
+                border-radius: 10px;
+                margin: 5% auto;
+                width: 55%;
+                padding: 12%;
+            }
+            
+            .subT {
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                position: relative;
+                top: 10px;
+                font-size: 25px;
+            }
+            
+            .quesT {
+                font-family: 'Courier New', Courier, monospace;
+                font-size: 20px;
+            }
+            
+            .org {
+                text-align: justify;
+            }
+            
+            #php::-webkit-scrollbar {
+                width: 7px;
+            }
+            
+            #php::-webkit-scrollbar-thumb {
+                background: #4C869E;
+                border-radius: 5px;
+            }
+            /*JavaScript*/
+            
+            #Js {
+                width: 400px;
+                height: 400px;
+                background-color: #000000;
+                border-radius: 10px;
+                overflow: auto;
+                margin-left: 5%;
+            }
+            
+            #Js img {
+                width: 300px;
+                display: block;
+                margin: auto;
+                margin-top: 5%;
+            }
+            
+            .insJ {
+                background-color: #fcd80b;
+                border-radius: 10px;
+                margin: 5% auto;
+                width: 55%;
+                padding: 12%;
+            }
+            
+            #Js::-webkit-scrollbar {
+                width: 7px;
+            }
+            
+            #Js::-webkit-scrollbar-thumb {
+                background: #fcd80b;
+                border-radius: 5px;
+            }
+            /*Java*/
+            
+            #Jv {
+                width: 400px;
+                height: 400px;
+                background-color: #ffffff;
+                border-radius: 10px;
+                overflow: auto;
+                margin-left: 5%;
+            }
+            
+            #Jv img {
+                width: 300px;
+                display: block;
+                margin: auto;
+                margin-top: 5%;
+            }
+            
+            .insJv {
+                background-color: #bb2626;
+                border-radius: 10px;
+                margin: 5% auto;
+                width: 55%;
+                padding: 12%;
+            }
+            
+            #Jv::-webkit-scrollbar {
+                width: 7px;
+            }
+            
+            #Jv::-webkit-scrollbar-thumb {
+                background: #bb2626;
+                border-radius: 5px;
+            }
+            /*Python*/
+            
+            #Py {
+                width: 400px;
+                height: 400px;
+                background-color: #2c5e72;
+                border-radius: 10px;
+                overflow: auto;
+                margin-left: 5%;
+            }
+            
+            #Py img {
+                width: 350px;
+                display: block;
+                margin: auto;
+                margin-top: 5%;
+            }
+            
+            .insPy {
+                background-color: #dabd1a;
+                border-radius: 10px;
+                margin: 5% auto;
+                width: 55%;
+                padding: 12%;
+            }
+            
+            #Py::-webkit-scrollbar {
+                width: 7px;
+            }
+            
+            #Py::-webkit-scrollbar-thumb {
+                background: #dabd1a;
+                border-radius: 5px;
+            }
+            
+            .col1 {
+                display: flex;
+                flex-direction: column;
+                padding: 8%;
+                margin: auto;
+            }
+            
+            .page {
+                display: flex;
+                flex-direction: row;
+                flex-wrap:wrap ;
+                justify-content: center;
+            }
